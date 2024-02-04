@@ -1,0 +1,4 @@
+﻿  Asm_3.cpp
+C:\Users\Лера\Desktop\Учеба\Assembler\Asm_3\Asm_3\Asm_3.cpp(52): warning C4102: end3_loop: неиспользованная метка
+C:\Users\Лера\Desktop\Учеба\Assembler\Asm_3\Asm_3\Asm_3.cpp(67): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Asm_3.vcxproj -> C:\Users\Лера\Desktop\Учеба\Assembler\Asm_3\Debug\Asm_3.exe
